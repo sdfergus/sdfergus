@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shandira! @sdfergus
 - 👀 I’m interested in all things Front-End / UX Engineering
-- 🌱 I’m currently learning VUEjs
+- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on Front End Engineering | UX/UI Design | VR/AR/MR
 - 📫 How to reach me shandira.ferguson@gmail.com
 
