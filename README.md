@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shandira! @sdfergus
-- 👀 I’m interested in all things Front-End / UX Engineering
-- 🌱 I’m currently learning MERN Stack | MEVN Stack
-- 💞️ I’m looking to collaborate on Front End Engineering | UX/UI Design | VR/AR/MR
+- 👀 I’m interested in all things Front-End | UX Engineering | Product Design | XR (VR/AR/MR)
+- 🌱 I’m currently brushing up on MERN Stack | MEVN Stack while immersing into XR
+- 💞️ I’m looking to collaborate on Front End Engineering | UX/UI Design | XR
 - 📫 How to reach me shandira.ferguson@gmail.com
 
 <!---
